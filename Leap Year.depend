@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1508610545 source:c:\users\nemanja glumicic\desktop\codeblocks projects\leap year\main.cpp
-	<iostream>
-	<cctype>
-	<string>
-
